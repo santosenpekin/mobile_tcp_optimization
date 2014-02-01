@@ -8,4 +8,6 @@ mobile_tcp_optimization
 
 该工程基于Linux-3.8内核实现，所有的补丁都是基于该内核实现。
 
+![github](https://github.com/santosenpekin/mobile_tcp_optimization/blob/master/pic/cwnd.png "CWND")
+
 ###作者邮箱:santosenpekin@163.com
